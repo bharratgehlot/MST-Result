@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> MST One Results</title>
+</head>
+<body>
+
+<style>
+
+body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 20px;
+            font-weight: bold;
+            color: #333;
+        }
+
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+
+
+</style>
+
+<form action="/result" method="post">
+  <label for="roll_number">Enter Roll Number:</label>
+  <input type="text" id="roll_number" name="roll_number" required>
+  <button type="submit">Get Result</button>
+
+  <p>Plain: 1001-1065</p>
+  <p>AI: AI1001-1068</p>
+  <p>BCT: BCT1001-1012</p>
+  <p>Note: Use capital letters in roll number</p>
+
+
+</form>
+
+</body>
+</html>

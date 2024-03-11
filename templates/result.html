@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Student Result</title>
+</head>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+
+
+  h2 {
+
+    text-align: center;
+
+  }
+
+  .result-box {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        display: flex;
+        justify-content: space-between; /* Updated */
+    }
+
+  table {
+    width: 48; /* Adjust the width as needed */
+    border-collapse: collapse;
+    margin-top: 20px;
+    
+  }
+
+  table,
+  th,
+  td {
+    border: 1px solid #ddd;
+  }
+
+  th,
+  td {
+    padding: 12px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  p {
+    margin: 0;
+    padding: 8px;
+  }
+</style>
+
+<body>
+
+
+  <div class="result-box">
+    <div >
+
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Details</th>
+        </tr>
+        <tr>
+          <td>Name</td>
+          <td>{{ result[0] }}</td>
+        </tr>
+        <tr>
+          <td>Gender</td>
+          <td>{{ result[1] }}</td>
+        </tr>
+        <tr>
+          <td>Roll Number</td>
+          <td>{{ result[2] }}</td>
+        </tr>
+        <tr>
+          <td>IMEA II [50]</td>
+          <td>{{ result[3] }}</td>
+        </tr>
+        <tr>
+          <td>PSPP  [50]</td>
+          <td>{{ result[4] }}</td>
+        </tr>
+        <tr>
+          <td>DCS</td>
+          <td>{{ result[5] }}</td>
+        </tr>
+
+        <tr>
+          <td>ETW</td>
+          <td>{{ result[6] }}</td>
+        </tr>
+
+
+      </table>
+    </div>
+
+    <div>
+
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Details</th>
+        </tr>
+
+        <tr>
+          <td>ES Practical</td>
+          <td>{{ result[7] }}</td>
+        </tr>
+        <tr>
+          <td>Web Development</td>
+          <td>{{ result[8] }}</td>
+        </tr>
+        <tr>
+          <td>PSPP Practical</td>
+          <td>{{ result[9] }}</td>
+        </tr>
+        <tr>
+          <td>DCS Practical</td>
+          <td>{{ result[10] }}</td>
+        </tr>
+        <tr>
+          <td>ETW Practical</td>
+          <td>{{ result[11] }}</td>
+        </tr>
+
+        <tr>
+          <td>Total Marks out of 500</td>
+          <td>{{ result[12]}}</td>
+        </tr>
+
+        <tr>
+          <td>Fail/Pass</td>
+          <td>{{ result[13] }}</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+
+</html>
