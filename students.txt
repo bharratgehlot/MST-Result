@@ -1,0 +1,839 @@
+--------------------------------PLAIN STUDENTS 65--------------------------------------------------
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ayush Saini', 'Male', '1001', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Abhay Rathore', 'Male', '1002', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Abhishek Chouhan', 'Male', '1003', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aditya Bhatt', 'Male', '1004', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ajay Mehta', 'Male', '1005', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ajay Prajapat', 'Male', '1006', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Anjali Somani', 'Female', '1007', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ansheeta Tiwari', 'Feale', '1008', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Arjun', 'Male', '1009', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Arayan', 'Male', '1010', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Avinash Patidar', 'Male', '1011', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Bharat Gehlot', 'Male', '1012', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Chanchal Patidar', 'Male', '1013', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Deepak Suryawanshi', 'Male', '1014', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Devendra Singh', 'Male', '1015', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Dileep Gir', 'Male', '1016', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gurudatt Choudhary', 'Male', '1017', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Harish', 'Male', '1018', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Harshika Chauhan', 'Male', '1019', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Harshita Dhakad', 'Male', '1020', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+ 
+---------------------------------------------20-------------------------------------------------
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Hemant', 'Male', '1021', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Himanshu Joshi', 'Male', '1022', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Hiralal', 'Male', '1023', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Janvi Bilodiya', 'Female', '1024', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Jatin Patidar', 'Male', '1025', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Jitendra', 'Male', '1026', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Jitendra Singh Solanki', 'Male', '1027', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Jiya Jain', 'Female', '1028', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Kapil Singh Chandrawat', 'Male', '1029', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Karan', 'Male', '1030', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Kavita Rathore', 'Female', '1031', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Kishor Dhakad', 'Male', '1032', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Kishor Kumar', 'Male', '1033', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Krishnkant Modi', 'Male', '1034', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Lalit Kumawat', 'Male', '1035', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Manish Nagda', 'Male', '1036', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Manish Patidar', 'Male', '1037', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Moiz Khan', 'Male', '1038', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Mona Sethiya', 'Female', '1039', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Muskan Choudhary', 'Female', '1040', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+-------------------------------------------------20 -------------------------------------------------
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Narendra', 'Male', '1041', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Nikita Patidar', 'Female', '1042', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Nilesh Teli', 'Male', '1043', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Nitin Tanwar', 'Male', '1044', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Pragya', 'Female', '1045', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Priyani Patidar', 'Female', '1046', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Rohitnath', 'Male', '1047', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Rohit Patidar', 'Male', '1048', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Saksham Mitesh Doshi', 'Male', '1049', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Saloni Panwar', 'Female', '1050', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shivani Jat', 'Female', '1051', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shivansh Sharma', 'Male', '1052', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shobhit Sharma', 'Male', '1053', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shree Ghatiya', 'Female', '1054', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shreyansh Surana', 'Male', '1055', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Shubham Patidar', 'Male', '1056', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Srashti Farkya', 'Female', '1057', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Sujal Joshi', 'Male', '1058', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Sunil Patidar', 'Male', '1059', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Tina Dhakad', 'Female', '1060', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+---------------------------------------REST 5------------------------------------------------
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Usman Khan', 'Male', '1061', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Vandana Prajapati', 'Female', '1062', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Vanshika Sharma', 'Female', '1063', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Vijaypal Singh', 'Male', '1064', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Vipin Patidar', 'Male', '1065', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+---------------------------------------END OF LIST PLAIN STUDENTS--------------------------------------
+
+---------------------------------------START OF LIST OF AI STUDENTS (68)---------------------------------------
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aanchal Agarwal', 'Female', 'AI1001', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ayesha Mansuri', 'Female', 'AI1002', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aditya Mathur', 'Male', 'AI1003', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aditya Solanki', 'Male', 'AI1004', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aishwarya Choudhary', 'Female', 'AI1005', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Anjali', 'Female', 'AI1006', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ankit Gurjar', 'male', 'AI1007', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Anurag Mandwariya', 'Male', 'AI1008', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Arman Hussain', 'Male', 'AI1009', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ashwary Deshmukh', 'Male', 'AI1010', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Ayush Pakar', 'Male', 'AI1011', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Bhavya Gor', 'Female', 'AI1012', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Daksh Saklecha', 'Male', 'AI1013', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Danish Varola', 'Male', 'AI1014', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Devendra Soni', 'Male', 'AI1015', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Digamber', 'Male', 'AI1016', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Dimple Kalwani', 'Female', 'AI1017', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Dipesh Kumawat', 'Male', 'AI1018', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Divya Lohar', 'Female', 'AI1019', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1020', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+----------------------------------------------NEXT 20---------------------------------------
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1021', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1022', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1023', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1024', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1025', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1026', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1027', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1028', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1029', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1030', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1031', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1032', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1033', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1034', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1035', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1036', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1037', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1038', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1039', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Gourav', 'Male', 'AI1040', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+--------------------------------------------From 40 to 60------------------------------------------
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1041', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1042', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1043', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1044', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1045', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1046', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1047', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1048', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1049', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1050', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1051', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1052', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1053', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1054', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1055', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1056', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1057', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1058', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1059', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1060', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+
+
+--------------------------------------from 61 to 68---------------------------------------------------
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1061', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1062', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1063', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1064', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1065', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1066', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1067', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Unknown', 'Male', 'AI1068', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+------------------------------------------BCT STUDENTS 12 -------------------------------------
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Aniruddh Kaushik', 'Male', 'BCT1001', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Arshad Ali', 'Male', 'ABCT1002', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Deepak Prajapati', 'Male', 'BCT1003', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Harshit Atoliya', 'Male', 'BCT1004', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Jaya', 'Female', 'BCT1005', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Karishma', 'Female', 'BCT1006', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Niyati Jain', 'Female', 'BCT1007', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Pramila', 'Female', 'BCT1008', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Pratiksha Soni', 'Female', 'BCT1009', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Rohan Chauhan', 'Male', 'BCT1010', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Satish Rawat', 'Male', 'BCT1011', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+cursor.execute('''
+    INSERT INTO mstone_result 
+    VALUES ('Tanishka', 'Female', 'BCT1012', 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+''')
+
+--------------------------------------END OF LIST---------------------------------------
+
+
+
